@@ -13,8 +13,10 @@ RimWorld 1.6 Harmony mod that lets pawns receive passive `equippedStatOffsets` f
 - Negative offsets never apply from items that did not win a positive stat.
 - Results are cached per pawn for 1000 game ticks.
 
-## Build
+## Installation
+You can subscribe to this mod directly on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3731302620).
 
+## Build
 Run:
 
 ```powershell
