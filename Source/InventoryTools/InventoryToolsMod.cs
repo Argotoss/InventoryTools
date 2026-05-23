@@ -8,7 +8,7 @@ namespace InventoryTools
     {
         static InventoryToolsMod()
         {
-            Harmony harmony = new Harmony("captainmuscles.inventorytools");
+            Harmony harmony = new Harmony("argotoss.inventorytools");
             harmony.PatchAll();
         }
     }
