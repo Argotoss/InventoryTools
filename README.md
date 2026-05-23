@@ -2,8 +2,6 @@
 
 RimWorld 1.6 Harmony mod that lets pawns receive passive `equippedStatOffsets` from carried hand-equippable inventory tools and weapons.
 
-Source: https://github.com/Argotoss/InventoryTools
-
 ## Behavior
 
 - Only non-apparel primary-equippable inventory items are considered.
