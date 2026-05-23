@@ -18,40 +18,40 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description><![CDATA[<b><size=18>Inventory Tools</size></b>
+  <description><![CDATA[[h1]Inventory Tools[/h1]
 I always found it weird that whenever you are using tools that boost the work productivity, you can only use one tool at a time. Why are my pawns not allowed to use a pickaxe and a hammer throughout the day? Now they are.  
 
-<b>What is this?</b>
+[b]What is this?[/b]
 Inventory Tools applies equippedStatOffsets (productivity bonuses for different jobs) from all carried hand-equippable items. It does not add tools by itself - it just rewards using various tools for multi-functional pawns.
 
 Armor, apparel, belts, backpacks, and other worn gear are ignored. Only items that can be equipped in the hands are considered.
 
-<b>How bonuses work</b>
+[b]How bonuses work[/b]
 Duplicate bonuses do not stack. If several carried tools improve the same stat, only the best one applies. A tool that gives Mining Speed +20% will beat a tool with Mining Speed +10%.
 
 Different tools can help with different jobs. A pawn can carry a mining tool, a construction tool, and a surgery tool, and each will improve their corresponding stat, independently.
 
 If the best tool has a downside, that downside applies too. For example, a bonesaw from Medieval Tools mod that improves surgery speed but lowers surgery success chance will apply both effects when it is the best available surgery tool. If a better surgery tool is carried, the bonesaw is ignored and its penalty is ignored too.
 
-<b>Equipped tools are handled properly</b>
+[b]Equipped tools are handled properly[/b]
 RimWorld already applies the stats from the currently equipped weapon or tool. Inventory Tools respects that, so carrying a duplicate of your active tool will not double the bonus. If a carried tool is better than the equipped one, only the improvement is added.
 
-<b>Compatibility</b>
+[b]Compatibility[/b]
 Should work with any modded weapon or tool that uses normal RimWorld equipped stat offsets.
 
-<b>Frequently asked</b>
+[b]Frequently asked[/b]
 Does this add tools? No, it only changes how carried tools apply their stats.
 Do duplicate tools stack? No. Only the best bonus for each stat applies.
 Does armor or clothing in inventory apply stats? No.
 Can I add it mid-save? Yes.
 Can I remove it mid-save? Yes.
 
-<b>Best paired with</b>
+[b]Best paired with[/b]
 Any mods that add tools
 Simple sidearms
 
 Preview art contributions are welcome if you want to make a better one.
 
-<b>Legal</b>
-Released under GPL-3.0. Source: https://github.com/Argotoss/InventoryTools]]></description>
+[b]Legal[/b]
+Released under GPL-3.0. Source: [url=https://github.com/Argotoss/InventoryTools]GitHub[/url]]]></description>
 </ModMetaData>
